@@ -16,6 +16,18 @@
 | **Paseo** | GitHub 上的开源智能体编排工具，可统一调度 OpenCode 等多家编码智能体，用于课程中的多智能体协作实操 | 官网/下载：https://paseo.sh ；仓库：https://github.com/getpaseo/paseo ；文档：https://paseo.sh/docs |
 | **Zotero** | 文献与数字内容管理核心工具，课程大量实操基于 Zotero（含中文社区插件） | 官方站点：https://www.zotero.org ；中文社区：https://zotero-chinese.com |
 
+### 课程技能包（OpenCode Skills）
+
+为开展课程中的 AI 辅助研究与内容生产，请在 OpenCode 的技能目录（如 `~/.opencode/skills`）中安装以下 5 个技能包（详见下一节「主要技能包」）：
+
+| 技能包 | 用途 | 仓库地址 |
+|--------|------|----------|
+| 学术研究技能 | 文献调研、学术写作与同行评审辅助 | https://github.com/Imbad0202/academic-research-skills |
+| 网络连接技能 | 联网检索与网站操作（opencli + web-access） | https://github.com/joeseesun/opencli-skill ；https://github.com/eze-is/web-access |
+| 数字生命卡兹克 | 多类实战技能集（含「横纵分析法」） | https://github.com/KKKKhazix/khazix-skills |
+| 安社罗匹克技能 | 官方技能集（docx / xlsx / pdf / pptx / frontend-design / skill-creator） | https://github.com/anthropics/skills/tree/main/skills |
+| 画图技能 | 基于 draw.io 的流程图/架构图生成 | https://github.com/jgraph/drawio-mcp |
+
 > 建议在开课前完成安装并基本跑通；如有问题，提前在课程群反馈。
 
 ---
@@ -96,7 +108,29 @@
 
 ---
 
-## 五、仓库文件清单
+## 五、主要技能包
+
+课程配套使用以下 5 个 OpenCode 技能包（安装方式见「〇、课前准备 → 课程技能包」）。
+
+1. **学术研究技能** — 文献调研、学术写作与同行评审辅助
+   - 仓库：https://github.com/Imbad0202/academic-research-skills
+
+2. **网络连接技能** — 联网检索与网站操作（含两个互补仓库）
+   - opencli-skill：https://github.com/joeseesun/opencli-skill
+   - web-access：https://github.com/eze-is/web-access
+
+3. **数字生命卡兹克** — 多类实战技能集（含「横纵分析法」HV Analysis）
+   - 仓库：https://github.com/KKKKhazix/khazix-skills
+
+4. **安社罗匹克技能（Anthropics 官方技能）** — 文档与前端相关（docx / xlsx / pdf / pptx / frontend-design / skill-creator）
+   - 仓库：https://github.com/anthropics/skills/tree/main/skills
+
+5. **画图技能** — 基于 draw.io 的流程图/架构图生成（drawio-mcp）
+   - 仓库：https://github.com/jgraph/drawio-mcp
+
+---
+
+## 六、仓库文件清单
 
 | 文件 | 说明 |
 |------|------|
@@ -116,7 +150,7 @@
 
 ---
 
-## 六、教材与参考书目
+## 七、教材与参考书目
 
 - 余浩（自编教材）. 《数字内容管理与生成式人工智能》. 2024.
 - Shivakumar, Shailesh Kumar. *Enterprise Content and Search Management for Building Digital Platforms*. Wiley, 2017. ISBN 978-1-119-20681-1 / 978-1-119-20684-2.
@@ -125,7 +159,7 @@
 
 ---
 
-## 七、备注
+## 八、备注
 
 - 本仓库不含原始超大课件（约 73 MB），仅保留按 8 个时段拆分后的课件。
 - 课件内容随教学需要持续调整，请以仓库最新版本为准。
