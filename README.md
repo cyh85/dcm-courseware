@@ -13,7 +13,7 @@
 | 工具 | 用途 | 安装指引 |
 |------|------|----------|
 | **OpenCode** | 课程配套的 AI 智能体/编程工具，用于实操中的代码与自动化任务 | 官方站点：https://opencode.ai （按所用平台下载安装） |
-| **Paseo** | 课程指定的 AI 工具（具体以教师下发的安装指引为准） | 请参照课程群 / 教师提供的安装说明完成安装 |
+| **Paseo** | GitHub 上的开源智能体编排工具，可统一调度 OpenCode 等多家编码智能体，用于课程中的多智能体协作实操 | 官网/下载：https://paseo.sh ；仓库：https://github.com/getpaseo/paseo ；文档：https://paseo.sh/docs |
 | **Zotero** | 文献与数字内容管理核心工具，课程大量实操基于 Zotero（含中文社区插件） | 官方站点：https://www.zotero.org ；中文社区：https://zotero-chinese.com |
 
 > 建议在开课前完成安装并基本跑通；如有问题，提前在课程群反馈。
